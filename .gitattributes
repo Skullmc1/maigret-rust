@@ -1,0 +1,2 @@
+# Keep the web templates out of the language statistics.
+templates/** linguist-detectable=false
